@@ -1,0 +1,11 @@
+G04 Delptronics ModuleConstructionSet*
+G04 BottomSilk.gbr*
+G04 #@! TF.FileFunction,Legend,Bot*
+G04 #@! TF.Part,Single*
+%FSLAX26Y26*%
+%MOIN*%
+G70*
+G90*
+%LPD*%
+G75*
+M02*

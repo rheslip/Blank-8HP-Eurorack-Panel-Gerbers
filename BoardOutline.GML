@@ -1,0 +1,19 @@
+G04 Delptronics ModuleConstructionSet*
+G04 BoardOutline.gbr*
+G04 #@! TF.FileFunction,Profile*
+G04 #@! TF.Part,Single*
+%FSLAX26Y26*%
+%MOIN*%
+%ADD11C,0.005512*%
+G70*
+G90*
+G75*
+G01*
+%LPD*%
+D11*
+X0Y0D02*
+X01590000D01*
+Y05060000D01*
+X0D01*
+Y0D01*
+M02*

@@ -1,0 +1,19 @@
+G04 Delptronics ModuleConstructionSet*
+G04 Board.gbr*
+G04 #@! TF.FileFunction,Drawing,Board polygon*
+G04 #@! TF.Part,Single*
+%FSLAX26Y26*%
+%MOIN*%
+G70*
+G90*
+G75*
+G01*
+%LPD*%
+G36*
+X0Y0D02*
+X01590000D01*
+Y05060000D01*
+X0D01*
+Y0D01*
+G37*
+M02*
